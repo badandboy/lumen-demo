@@ -41,3 +41,6 @@
    * 可参考DemoController
    * Service层的使用参考[https://www.kancloud.cn/curder/laravel/408485](https://www.kancloud.cn/curder/laravel/408485)
    * Repository层的使用参考[https://www.kancloud.cn/curder/laravel/408484](https://www.kancloud.cn/curder/laravel/408484)
+   
+##
+test
