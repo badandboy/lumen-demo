@@ -85,6 +85,8 @@ $app->register(App\Providers\RequestServiceProvider::class);
 // $app->register(App\Providers\AuthServiceProvider::class);
 // $app->register(App\Providers\EventServiceProvider::class);
 $app->register(Illuminate\Redis\RedisServiceProvider::class);
+$app->register(Maatwebsite\Excel\ExcelServiceProvider::class);
+
 
 
 //日志按天分隔
